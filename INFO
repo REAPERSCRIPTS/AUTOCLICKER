@@ -1,0 +1,6 @@
+if you want to change the key to activate go to 
+TOGGLE_KEY = KeyCode(char="s") and change the s
+
+also it needs pynput to work and run
+
+ALSO ENJOY
